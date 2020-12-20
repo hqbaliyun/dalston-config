@@ -3,5 +3,5 @@ cloud:
 info:
   config:
     server:
-      name: ${cipher}0bd018fbb50794c1eaf593d067e238680e3a650efb3b5665ba086e918289816d709fd997465315b8f9b7a52f9d1a490a
+      name: {cipher}0bd018fbb50794c1eaf593d067e238680e3a650efb3b5665ba086e918289816d709fd997465315b8f9b7a52f9d1a490a
       version: dalston.SR1
