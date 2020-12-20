@@ -1,8 +1,3 @@
 spring:
   profiles:
     active: dev
-info:
-  config:
-    server:
-      name: config-server
-      version: dalston.SR1

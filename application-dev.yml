@@ -1,2 +1,7 @@
 cloud:
   version: Dalston.SR1
+info:
+  config:
+    server:
+      name: config-server-dev
+      version: dalston.SR1
